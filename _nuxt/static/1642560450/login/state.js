@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"robotin\u002F_nuxt\u002Fstatic\u002F1642560450",layout:"Auth",error:a,state:{account:{},auth:{user:a,loggedIn:false,strategy:"local"}},serverRendered:true,routePath:"\u002Flogin",config:{_app:{basePath:"robotin\u002F",assetsPath:"robotin\u002F_nuxt\u002F",cdnURL:a}}}}(null));
